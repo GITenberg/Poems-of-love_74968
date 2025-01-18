@@ -1,0 +1,31 @@
+_repo: Poems-of-love_74968
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wilcox, Ella Wheeler
+    alias: Wheeler, Ella
+    birthdate: 1850
+    deathdate: 1919
+    gutenberg_agent_id: '1138'
+    url: http://www.gutenberg.org/2009/agents/1138
+    wikipedia: https://en.wikipedia.org/wiki/Ella_Wheeler_Wilcox
+description: ''
+gutenberg_issued: '2024-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74968'
+language: en
+pgterms:marc905: 20241215165407wilcox
+pgterms:marc906: '1905'
+pgterms:marc907: US
+production_note: Debra Ella LaVergne
+publication_note: '  $aChicago :$bM. A. DONOHUE & COMPANY, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry -- 20th century'
+- !lcc 'PS'
+- GITenberg
+title: Poems of love
+url: http://www.gutenberg.org/ebooks/74968
